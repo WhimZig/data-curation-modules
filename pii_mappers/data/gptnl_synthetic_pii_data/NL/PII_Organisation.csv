@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Het nieuwe hoofdkantoor van de Koninklijke Philips is onlangs geopend.;1;True;Koninklijke Philips
+De Universiteit van Amsterdam organiseert volgend jaar een groot evenement.;1;True;Universiteit van Amsterdam
+Tijdens de vergadering werd de strategie van GroenLinks besproken;1;True;GroenLinks
+Het bedrijf Miele heeft onlangs zijn nieuwe productlancering aangekondigd.;1;True;Miele
+Vandaag gaat hij naar de Albert Heijn om boodschappen te doen.;1;True;Albert Heijn
+Tijdens de bespreking werd er veel gesproken over het huis van het oudere stel.;0;False;oudere stel
+De rekening van 100 euro van mijn broer bij de bank lijkt niet op die van jou.;0;False;bank
+De discussie over de financiële steun van 5000 euro voor de vakantie was intens.;0;False;5000 euro
+De factuur met het ordernummer 123456 is vandaag verzonden.;0;False;123456
+De Hogeschool heeft onlangs een nieuwe onderzoekssubsidie ontvangen.;0;False;Hogeschool
+De innovatieve ideeën van GroenTech hebben de stad enorm veranderd.;1;Edge;GroenTech
+De organisatie van het jaarlijkse muziekfestival van KLM heeft veel sponsors nodig.;1;Edge;KLM

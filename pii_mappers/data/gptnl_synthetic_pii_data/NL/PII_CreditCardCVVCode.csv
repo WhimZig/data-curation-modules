@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Ik heb een bestelling geplaatst en ik moest mijn CVV-code 552 opgeven.;1;True;552
+Vandaag heb ik mijn aankoop gedaan met de creditcard en de CVV-code 964 staat op de achterkant.;1;True;964
+Tijdens de online aankoop vroeg de website om de CVV-code 632, zodat ik mijn betaling kon voltooien.;1;True;632
+Tijdens het afrekenen op de website vroeg ik om de CVV-code, die was 774.;1;True;774
+Tijdens het online winkelen vroeg de website om mijn CVV-code, die 576 is, om de betaling te verwerken.;1;True;576
+Het klantnummer van mijn buurman is 1234AB en niet een cvv-code.;0;False;
+Vandaag heb ik mijn mobiele telefoon laten repareren voor 1235 punten.;0;False;
+Als je de code 123 kan opschrijven, dan kan ik je helpen.;0;False;
+Tijdens de vergadering vertelde hij dat zijn favoriete code 123ABC is.;0;False;
+Toen ik mijn pakje openmaakte, vond ik een brief met de code 6789 die me moest helpen bij het resetten van mijn wachtwoord.;0;False;
+Als ik afreken bij mijn favoriete restaurant, voer ik cvv-code 2-0-3 in;1;Edge;2-0-3
+Vandaag heb ik mijn aankoop gedaan met de creditcard en de CVV-code '3223 603' staat op de achterkant.;1;True;3223 603

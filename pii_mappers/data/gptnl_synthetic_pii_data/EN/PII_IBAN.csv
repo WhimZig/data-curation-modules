@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+After verifying my bank details, I found out that my IBAN is GB84MYNB48764759382421.;1;True;GB84MYNB48764759382421
+I recently transferred funds using my IBAN, which is GB21ZWDZ3694716875156, to complete a payment.;1;True;GB21ZWDZ3694716875156
+To complete the bank transfer, please provide your IBAN: IE8810138545235671798590714.;1;True;IE8810138545235671798590714
+I just received my payment details, including my IBAN: LB61358878355789477463742864, which I need for the transfer.;1;True;LB61358878355789477463742864
+I just received my bank statement, and my IBAN is ML86P91825685164322881287328.;1;True;ML86P91825685164322881287328
+My favorite grocery store is located in a cozy street, and the checkout code was 114720444512809.;0;False;114720444512809
+I found my old magic number, which is 177371812403483, while cleaning my desk.;0;False;177371812403483
+After reviewing the assignment, I found the error code 188849553146327 that needs attention.;0;False;188849553146327
+The application reference number is 4951-9716-9007-0233, which is critical for processing.;0;False;4951-9716-9007-0233
+The package tracking number is 8889-8526-7588-5553, please check it.;0;False;8889-8526-7588-5553
+During the transaction, I forgot to mention my iban GB 61 BARC 2003 7878 1414 34 which is crucial for the payment.;1;Edge;GB 61 BARC 2003 7878 1414 34
+My new bank account has the IBAN CH-0289-1443-4682-2613-4978  which I need to remember for future transactions.;1;Edge;CH-0289-1443-4682-2613-4978

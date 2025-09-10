@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I need to transfer funds to my Australian bank with number 12345678;1;True;12345678
+After verifying his savings, my dad noticed his Australian bank account number 3456789012 is incorrect.;1;True;3456789012
+My Australian bank account number is 748394, please keep it safe.;1;True;748394
+I need to deposit my funds into account number 750954 for my Australian bank.;1;True;750954
+My Australian bank account number is 92047493 and should be kept secure.;1;True;92047493
+My friend provided me with his bank account number 123/456/789/93489, which isn't an Australian bank account number.;0;False;
+The number for the local gym membership is 12345678:0, please keep it safe.;0;False;
+The code I used to access my online gaming account is 00045678.;0;False;
+I opened a bank account and deposited $10000 yesterday.;0;False;
+The transaction reference code is jfdk@zl! and needs verification.;0;False;
+My new bank account number is 957-485, so please keep it safe.;1;Edge;957-485
+I need to transfer funds into account 012-345 6784232 with my local bank.;1;Edge;012-345 6784232

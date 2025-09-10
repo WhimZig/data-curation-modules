@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+De website voor het reserveren van kamers is http://www.hotels.nl;1;True;http://www.hotels.nl
+De website voor meer informatie is te vinden op https://www.voorbeeld.com;1;True;https://www.voorbeeld.com
+Bij het bezoeken van de website https://www.voorbeeld.nl, vond ik veel interessante artikelen.;1;True;https://www.voorbeeld.nl
+Als je meer informatie wilt, bezoek dan onze website op https://www.example.com voor details.;1;True;https://www.example.com
+Vandaag heb ik een interessant artikel gelezen op https://www.voorbeeldsite.nl, en ik kan het je aanraden.;1;True;https://www.voorbeeldsite.nl
+Vandaag heb ik een interessante code ontvangen: 1234-ABCD-5678-EFGH, die ik moet gebruiken om in te loggen.;0;False;1234-ABCD-5678-EFGH
+De vergaderingen worden elke maand gehouden bij kantoor 1234-5678 in Amsterdam.;0;False;1234-5678
+De geheime code voor de toegang tot de website is 12345-67890.;0;False;12345-67890
+Wanneer je je aanmeldt, gebruik dan als code 12345-ABCDE om toegang te krijgen.;0;False;12345-ABCDE
+Ik heb vorige week het product 1234-5678-90 besteld, maar de webpagina blijft laden.;0;False;1234-5678-90
+Op de website van www.voorbeeld.com kun je meer informatie vinden over de producten die wij aanbieden.;1;Edge;www.voorbeeld.com
+In de tijd dat ik naar de website http://voorbeeld.nl ging, zag ik veel interessante artikelen.;1;Edge;http://voorbeeld.nl

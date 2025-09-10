@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+De auto met het kenteken 482-AB-3 staat geparkeerd voor de winkel.;1;True;482-AB-3
+De auto met het kenteken 1-EF-256 stond geparkeerd voor mijn huis.;1;True;1-EF-256
+Mijn auto met het kenteken RTY-89-X is onlangs gestolen.;1;True;RTY-89-X
+Gisteren zag ik een auto met het kenteken MN-789-M in de straat.;1;True;MN-789-M
+Vandaag zag ik een auto met het kenteken 56-KD-MW op de snelweg.;1;True;56-KD-MW
+Gisteren zag ik een vrachtwagen met de code 689-ABC voor mijn huis staan.;0;False;689-ABC
+Vandaag heeft mijn vriend zijn favoriete opleiding met de code 7AB-12-34 afgerond.;0;False;7AB-12-34
+Mijn klantnummer is 4956, en ik heb de code voor toegang tot mijn huis.;0;False;4956
+Gisteren zag ik een vrachtwagen waar 123-XYZ op stond langs de snelweg rijden.;0;False;123-XYZ
+Tijdens mijn vakantie in Nederland zag ik veel auto's met de codes rijden.;0;False;codes
+Gisteren zag ik een blauwe auto met het kenteken LERN26 geparkeerd staan naast mijn huis.;1;Edge;LERN26
+Mijn buurman rijdt altijd rond in zijn blauwe auto met het kenteken WX 562 T, wat ik bijzonder vind.;1;Edge;WX 562 T

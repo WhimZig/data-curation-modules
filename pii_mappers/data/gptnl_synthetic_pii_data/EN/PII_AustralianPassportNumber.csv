@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I need to provide my Australian passport number, which is N9482758, for my visa application.;1;True;N9482758
+When I applied for the visa, I provided my Australian passport number: E9509482.;1;True;E9509482
+I just found my Australian passport number, which is PZ9501283, in my old documents.;1;True;PZ9501283
+When applying for a new visa, I submitted my Australian passport number, PE9136345, for verification.;1;True;PE9136345
+I wanted to book a flight to Sydney, but I realized my passport number is X1723475.;1;True;X1723475
+My new membership code is 12@vrl!@, which I need for my accounts.;0;False;
+The customer's order was identified by the reference number 2.;0;False;
+I often find myself admiring the intricate designs on the U.S. passport with the number 42.;0;False;
+During our trip, I accidentally wrote down the number 11, which I thought was secure.;0;False;
+My passport number is 123456789, which I need to renew soon.;0;False;
+My passport number is PD498755, which I need for travel.;1;Edge;PD498755
+My friend has an Australian passport number, 4294222, which he often uses to travel.;1;Edge;4294222

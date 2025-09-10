@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+De btw-nummer van ons bedrijf is NL420754957B01 en moet worden gedeeld.;1;True;NL420754957B01
+De belastingdienst heeft het Europese btw-nummer NL424206407B01 van mijn bedrijf bevestigd.;1;True;NL424206407B01
+De onderneming heeft het Europese btw-nummer BE0753198466 vermeld op de factuur.;1;True;BE0753198466
+Mijn bedrijf heeft een Europees btw-nummer dat begint met FR48651971253.;1;True;FR48651971253
+De BTW-nummer van het bedrijf is NL123456789B01 en moet worden ingediend.;1;True;NL123456789B01
+De nieuwe belastingformulieren vereisen een identificatienummer zoals DE061844506.;0;False;DE061844506
+Ik heb een nieuw belastingnummer ontvangen, namelijk 1234 5678 90;0;False;1234 5678 90
+De factuur met nummer 1234-ABCD-5678 is verzonden naar het bedrijf.;0;False;1234-ABCD-5678
+Het nummer dat op het pakket staat is 1234-ABCD-5678;0;False;1234-ABCD-5678
+Toen ik naar de winkel ging, zag ik een bon met het nummer 1234-5678-9012 staan.;0;False;1234-5678-9012
+Mijn bedrijf heeft onlangs de Europese belastingregistratie met nummer NL 607 348 586 B01 aangevraagd.;1;Edge;NL 607 348 586 B01
+De factuur met referentie BE-01 54 54 16 85 is verzonden naar het kantoor.;1;Edge;BE-01 54 54 16 85

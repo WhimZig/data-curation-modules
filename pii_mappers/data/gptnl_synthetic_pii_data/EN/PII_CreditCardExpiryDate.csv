@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+When I checked my account, I noticed that my credit card expires on 12/24.;1;True;12/24
+My credit card expires in 03-25, so I need to renew it soon.;1;True;03-25
+I need to fill in my credit card expiry date, which is 06-24.;1;True;06-24
+I need to check the expiration date on my credit card, which is 12/25.;1;True;12/25
+My credit card expires in 07-28, so there is no rush.;1;True;07-28
+The expiration date on my driver's license is 05/25, can you believe it?;0;False;
+After checking the refrigerator, I realized the milk expiry date is 12/25.;0;False;
+After reviewing the documents, I found the car's expiry date to be December '24.;0;False;
+My favourite day is 04/23, which I often confuse with bank statements.;0;False;
+The expiration date on my library card is 05/24, but the library allows renewal.;0;False;
+On my receipt, I noticed that my credit card expires in sept 2024.;1;Edge;sept 2024
+The expiration date for your card is March 25, which you should remember.;1;Edge;March 25

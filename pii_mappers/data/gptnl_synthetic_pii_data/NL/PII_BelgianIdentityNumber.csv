@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn rijksregisternummer is 05091536660, dat heb ik nodig voor de aanvraag.;1;True;05091536660
+Mijn verjaardag is 15-04 en mijn identiteitsnummer is 7009.20842.91;1;True;7009.20842.91
+Ik moet mijn Belgische identificatienummer, 81081623374, op de aanvraagformulieren invullen.;1;True;81081623374
+Gisteren ontving ik een brief van de overheid met mijn rijksregisternummer 00.07.04.495.45 erin vermeld.;1;True;00.07.04.495.45
+Mijn Belgische identiteitsnummer is 70061365381, en ik heb het nodig voor mijn aanvraag.;1;True;70061365381
+Mijn nieuwe lidmaatschapsnummer is 1234-5678-9101, dat moet ik in dit formulier invoeren.;0;False;1234-5678-9101
+Op mijn laatste belastingaangifte gebruikte ik het nummer 1234-567-891, wat verwarrend was met het Belgisch identiteitsnummer.;0;False;1234-567-891
+Mijn vriend heeft het cijferschema 1234-5678-90 gebruikt voor zijn belastingaangifte.;0;False;1234-5678-90
+Mijn paspoortnummer is 123-456-789, maar ik ben niet zeker of dat belangrijk is.;0;False;123-456-789
+In het ziekenhuis vroeg de verpleegster naar mijn rijksregisternummer 1234-5678-9101 voordat ze mijn gegevens kon verifiëren.;0;False;1234-5678-9101
+Het is belangrijk dat je jouw rijksregisternummer, 76 01 13 996 23, veilig houdt om identiteitsdiefstal te voorkomen.;1;Edge;76 01 13 996 23
+Vandaag heb ik een document gevonden met het rijksgeristernummer 85062554151 dat belangrijk is voor mijn belastingaangifte.;1;Edge;85062554151

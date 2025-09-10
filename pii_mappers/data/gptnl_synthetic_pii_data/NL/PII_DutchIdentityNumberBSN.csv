@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Ik moet mijn BSN-nummer, 035467927, doorgeven aan de belastingdienst.;1;True;035467927
+Vandaag moet ik mijn belastingaangifte indienen met mijn BSN 374651280;1;True;374651280
+Naast mijn naam heeft de overheid ook mijn burger service nummer, 748139254, geregistreerd.;1;True;748139254
+Ik heb onlangs mijn BSN, 730812595, nodig gehad voor het aanvragen van een nieuwe identiteitskaart.;1;True;730812595
+Ik moet mijn burgerservicenummer, 928406714, op de aanvraag vermelden.;1;True;928406714
+Mijn zus is jarig op 15-12 en heeft het nummer 00767425-7 gekregen.;0;False;00767425-7
+Tijdens de controle vond de inspecteur een nummer dat startte met 381665448 en vroeg zich af wat dat betekende.;0;False;381665448
+Tijdens de controle vonden we het telefoonnummer 230-821-9914 in de papieren.;0;False;230-821-9914
+In de wachtkamer hoorde ik iemand 076939475 zeggen dat ze naar de dokter moest.;0;False;076939475
+Mijn klantnummer is 579135468, dat gebruik altijd voor contact.;0;False;579135468
+Tijdens het invullen van het formulier merkte ik dat mijn BSN 700 787 896 niet goed werd herkend.;1;Edge;700 787 896
+Mijn broer heeft onlangs zijn BSN-nummer, 162-18-5923, gewijzigd voor zijn belastingaangifte.;1;Edge;162-18-5923

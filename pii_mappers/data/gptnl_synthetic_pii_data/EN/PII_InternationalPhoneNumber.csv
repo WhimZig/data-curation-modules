@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+When you reach France, you can contact me at +33 1 44 55 22 33.;1;True;+33 1 44 55 22 33
+You can reach me at +44 20 7946 0958 for any inquiries.;1;True;+44 20 7946 0958
+In case of an emergency abroad, you can reach me at +44 7911 123456.;1;True;+44 7911 123456
+If you need to contact me while I'm abroad, my international phone number is +44 20 7946 0958.;1;True;+44 20 7946 0958
+When you visit Spain, you can reach me at +34 612 345 678.;1;True;+34 612 345 678
+While traveling in Europe, I made a note of 1234-5678-9012 to remember my hotel reservation.;0;False;1234-5678-9012
+After the conference, I received a message from the code 1234567890 about project updates.;0;False;1234567890
+Last year's sales report indicated a revenue increase of 1-800-555-0199.;0;False;1-800-555-0199
+While strolling through the market, I spotted a $12345 discount card that intrigued me.;0;False;$12345
+I contacted the support team using the code 1234-5678.;0;False;1234-5678
+If you need to reach me, my international number is +44 20 7946 0958, which might appear complicated.;1;Edge;+44 20 7946 0958
++44 20 7946 0958 is the customer service number for deliveries in the UK.;1;Edge;+44 20 7946 0958

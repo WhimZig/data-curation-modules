@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+The server at fcef:0363:fa06:fca8:47e6:8297:aa6c:a151 was down for maintenance last night.;1;True;fcef:0363:fa06:fca8:47e6:8297:aa6c:a151
+The server's IP address 153.95.147.198 is currently down for maintenance.;1;True;153.95.147.198
+My computer's IP address is 9221:3ad5:e61b:044e:232a:8669:af0e:b9a6, which is crucial for my network setup.;1;True;9221:3ad5:e61b:044e:232a:8669:af0e:b9a6
+After checking the logs, I found that the user's ip address was 217.169.46.54.;1;True;217.169.46.54
+The server's IP address 5a2c:8adb:7c9f:8b78:b6d5:cb82:76ac:eafa needs to be updated regularly.;1;True;5a2c:8adb:7c9f:8b78:b6d5:cb82:76ac:eafa
+When we checked the server logs, the error code 56.253 appeared frequently.;0;False;56.253
+Shipment tracking codes, such as 27.187.202 are often mistaken for a private IP address.;0;False;27.187.202
+The meeting is scheduled to start at 10.15 PM.;0;False;10.15 PM
+The meeting scheduled at our head quarters is crucial for project planning.;0;False;head quarters
+The shipment tracking number is 4491:634836:289:79:624 and should arrive soon.;0;False;4491:634836:289:79:624
+The server accessed the data at ff6c:eadc:9373:366d:7fea:b21c:2652:5fd2 which caused a failure.;1;Edge;ff6c:eadc:9373:366d:7fea:b21c:2652:5fd2
+The server responded from the address 204.235.216.160 with an error message.;1;Edge;204.235.216.160

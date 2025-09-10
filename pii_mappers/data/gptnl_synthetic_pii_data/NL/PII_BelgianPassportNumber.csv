@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn Belgische paspoortnummer is AN720615, wat ik nodig heb voor het reizen.;1;True;AN720615
+Ik moest mijn paspoortnummer DR401493 tonen bij de grenscontrole.;1;True;DR401493
+Mijn paspoortnummer is YT387819, en het is een Belgische identiteit.;1;True;YT387819
+Mijn Belgische paspoortnummer is XT919038, dat moet ik onthouden voor mijn reis.;1;True;XT919038
+Tijdens mijn reis naar België moest ik mijn paspoortnummer OT499858 tonen.;1;True;OT499858
+De nieuwe medewerker heeft een heel vreemd personeelsnummer, namelijk 1234567890AB.;0;False;1234567890AB
+Mijn lievelingsgetal is 123456789, maar ik heb mijn paspoort helaas verloren.;0;False;123456789
+De klantenservice heeft mijn verzekering goedgekeurd met nummer 12345678;0;False;12345678
+Mijn vriendin heeft onlangs haar identiteitskaart met andere nummer gekregen.;0;False;andere nummer
+Ik heb net mijn rijbewijs met het nummer 1234-ABCD-5678 vernieuwd.;0;False;1234-ABCD-5678
+Mijn paspoortnummer is UC 02 23 48, wat ik nodig heb voor de aanvraag.;1;Edge; UC 02 23 48
+Mijn broer heeft zijn paspoortnummer, dat is NL 852634, verloren tijdens het reizen naar België.;1;Edge;NL 852634

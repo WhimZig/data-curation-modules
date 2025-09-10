@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn creditcard verloopt op 12/24, dus ik moet binnenkort betalen.;1;True;12/24
+In de winkel vroeg de medewerker naar de vervaldatum van mijn creditcard, die op 05-23 staat.;1;True;05-23
+Mijn creditcard verloopt op 05/23, dus ik moet spoedig betalen.;1;True;05/23
+Ik moet mijn creditcard vernieuwen voordat de vervaldatum van 05-25 verstrijkt.;1;True;05-25
+Mijn creditcard verloopt op 05/24, dus ik moet er snel een nieuwe aanvragen.;1;True;05/24
+In juli 2025 moet ik mijn sportpas vernieuwen, want dat verloopt dan.;0;False;juli 2025
+Mijn bibliotheekpas verloopt op 12/25, dus ik moet het vernieuwen.;0;False;12/25
+Mijn favoriete pasta recept is van maart 2024, dat ik graag maak voor speciale gelegenheden.;0;False;maart 2024
+De afspraak voor de controle is op 30-09-2025 bij de dokter.;0;False;30-09-2025
+Mijn abonnement verloopt op 12-25, dus ik moet het vernieuwen.;0;False;12-25
+Mijn vriend zei dat de vervaldatum van zijn creditcard op mei 2023 staat, wat binnenkort is.;1;Edge;mei 2023
+Ik moet mijn creditcard vernieuwen voordat de vervaldatum in maart 2025 verloopt.;1;Edge;maart 2025

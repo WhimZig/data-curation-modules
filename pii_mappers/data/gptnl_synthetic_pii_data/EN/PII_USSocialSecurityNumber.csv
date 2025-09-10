@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+During the application process, the singer listed her Social Security number as 363-23-0776.;1;True;363-23-0776
+My social security number is 002580862, and I need to keep it safe.;1;True;002580862
+My social security number is 409-31-7500, and I need to remember it.;1;True;409-31-7500
+After verifying my identity, they requested my social security number: 268423621.;1;True;268423621
+After carefully reviewing his documents, your dad realized his Social Security number was 468705084.;1;True;468705084
+The number 5853662 was required for the loan application.;0;False;5853662
+The number 487462 is actually my favourite number.;0;False;487462
+The verification code is 545195549..;0;False;545195549
+During the application process, I accidentally wrote my driver's license number instead of my social security number.;0;False;driver's license number
+In February, I found an old bank statement that had 123-45 printed on it.;0;False;123-45
+During the application process, I found out that my SSN is 449-43-8127 but I kept it private.;1;Edge;449-43-8127
+After checking her documents, she realized her social security number was the same as the one written on the lottery ticket: 417129073.;1;Edge;417129073

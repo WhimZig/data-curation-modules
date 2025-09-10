@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+After checking my records, I realized my UK National Insurance number is AB123456A.;1;True;AB123456A
+My NINO is CR 65 43 21 B, and I need to remember it for tax purposes.;1;True;CR 65 43 21 B
+I need to provide my Insurance Number, which is JW 98 76 54C, to complete the application;1;True;JW 98 76 54C
+My UK National Insurance number is KT00 11 22 D, which is often required for tax purposes.;1;True;KT00 11 22 D
+When I applied for the new job, they asked for my NINO, which is HZ 11 22 33 C ;1;True;HZ 11 22 33 C
+The customer service representative asked for my verification code, which is 1234-5678-9101.;0;False;1234-5678-9101
+In order to access your account, please provide the code DN603656A.;0;False;DN603656A
+The tracking code for the package is LA677454.;0;False;LA677454
+In order to apply for a loan, you need identity numbers;0;False;identity numbers
+In order to apply for a bank account, please provide your UK National Identification Number, which is essential.;0;False;UK National Identification Number
+My old friend, who lives in London, often jokes about her unique uk national insurance number AB 12 34 56 C, which she keeps as a secret.;1;Edge;AB 12 34 56 C
+The driver's license number was incorrect, but my UK National Insurance number is TE 56 29 44 C.;1;Edge;TE 56 29 44 C

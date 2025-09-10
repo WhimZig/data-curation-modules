@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn zusje is op 15 maart jarig en we organiseren een groot feest.;1;True;15 maart
+Mijn beste vriend is geboren op 12 maart 1954.;1;True;12 maart 1954
+Op 21 januari viert mijn zus haar verjaardag met een groot feest.;1;True;21 januari
+Op 15 mei 2024 is mijn nichtje geboren.;1;True;15 mei 2024
+Op 15 februari gaan we bowlen voor de verjaardag van mijn vriend.;1;True;15 februari
+In dit jaar celebrate zij haar 30ste jubileum op 15 juni.;0;False;15 juni
+Vandaag vieren we het vijfjarig jubileum van de oprichting van ons bedrijf op 15 juni 2018.;0;False;15 juni 2018
+Afgelopen week vierde mijn vriendin haar dertigste jubileum op 15 januari.;0;False;15 januari
+Mijn broer heeft altijd moeite met het herinneren van data zoals mijn examen datum.;0;False;examen datum
+De datum van de getuigschrift is 15 maart 2020.;0;False;15 maart 2020
+Mijn zus is op 12-02 jarig, en dat vieren we altijd met de hele familie.;1;Edge;12-02
+Mijn zus is op vijf februari jarig, en we plannen een groot feest.;1;Edge;vijf februari

@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I am from the U.S. and after reviewing my finances, I found my bank account number 1319018671.;1;True;1319018671
+I just deposited my paycheck into my US bank account number 98262539132.;1;True;98262539132
+I just transferred funds using my US Bank Account Number 472054959878 yesterday.;1;True;472054959878
+I recently changed my US Bank account number to 06374245144 for security.;1;True;06374245144
+My bank account number with USBank is 4541216432, and I need to update my information.;1;True;4541216432
+The account number used for my grocery store rewards is 501592;0;False;501592
+I have an old bank statement showing my account number, which I believe is still valid.;0;False;account number
+Pls check my savings account 2.;0;False;2
+I was unable to locate the parking permit number 482667954791 for my vehicle.;0;False;482667954791
+Please send your payments and mention 2153896 to complete the transaction.;0;False;2153896
+The account number you should transfer funds to is 244 862 288 and it is associated with my savings account.;1;Edge;244 862 288
+My account number is 754 030 417 216 and I would like to keep it safe.;1;Edge;754 030 417 216

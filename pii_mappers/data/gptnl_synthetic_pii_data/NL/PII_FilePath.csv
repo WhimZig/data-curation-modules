@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+De documentatie kan worden gevonden op C:\gebruikers\Job\documenten\project\verslag.txt;1;True;C:\gebruikers\Job\documenten\project\verslag.txt
+In de documentenmap staat dat het bestand te vinden is op C:\Users\Jan\Documents\project.pdf;1;True;C:\Users\Jan\Documents\project.pdf
+Het bestand bevindt zich op de pad: /gebruikers/johan/documenten/berekeningen.xlsx;1;True;/gebruikers/johan/documenten/berekeningen.xlsx
+/home/edvdplas/documenten/belangrijke_bestanden/projectdata.xlsx is het bestand dat ik heb gebruikt voor mijn presentatie.;1;True;/home/edvdplas/documenten/belangrijke_bestanden/projectdata.xlsx
+/home/mary/documents/verslagen/berichten_2023.txt is de locatie waar ik al mijn rapporten bewaar.;1;True;/home/mary/documents/verslagen/berichten_2023.txt
+Het nummer van mijn studentenkaart is 12345678 en niet een file_path.;0;False;12345678
+De bestanden zijn opgeslagen in de map met de naam 2023-12-01-rekeningen.;0;False;2023-12-01-rekeningen
+Tijdens het opstellen van het project hebben we code 1234-5678-ABCD-1234 gebruikt.;0;False;1234-5678-ABCD-1234
+Mijn favoriete recepten zijn opgeslagen in de map met de naam 12345678ABC.;0;False;12345678ABC
+De rapportage voor het project kan worden gevonden in map 123-abc-def-456;0;False;123-abc-def-456
+De bestandslocatie voor de contractdocumenten is C:\Users\Jan Documents\Contracten\2023_Bezigheid.docx;1;Edge;C:\Users\Jan Documents\Contracten\2023_Bezigheid.docx
+/thuis/documenten/presentatie_2023/juni/ is de map waar je om vroeg.;1;Edge;/thuis/documenten/presentatie_2023/juni/

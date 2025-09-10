@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+During the conference, Maria Johnson shared her insights on climate change.;1;True;Maria Johnson
+Last weekend, I bumped into Sarah Montgomery at the coffee shop.;1;True;Sarah Montgomery
+Michael Thompson never gives up hope.;1;True;Michael Thompson
+After much deliberation, the committee decided to honor Janet for her outstanding contributions to the community.;1;True;Janet
+After hours of searching, we finally found Sarah's old yearbook on the shelf.;1;True;Sarah
+The registration number for vehicle 3214 was confirmed last week.;0;False;3214
+The new coffee shop in town has a special offer for its customers.;0;False;town
+The event in the park will take place very soon ;0;False;park
+Last year's budget report indicated a total spend of $1,000 for services.;0;False;$1,000
+Despite the delivery being scheduled for Tuesday, my order number 12345 was not processed.;0;False;order number 12345
+Despite never meeting her, I often think about Julia's incredible artwork displayed online.;1;Edge;Julia
+Last week's meeting focused on the strategies proposed by a certain Mrs. Kennedy.;1;Edge;Mrs. Kennedy

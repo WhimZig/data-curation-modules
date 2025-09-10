@@ -1,0 +1,1 @@
+from .gopher_quality_filter import GopherQualityFilter

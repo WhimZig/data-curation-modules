@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Ik heb onlangs mijn nieuwe Belgische telefoonnummer 0487 32 18 48 gewijzigd.;1;True;0487 32 18 48
+Graag kunt u me bellen op het nummer 0481 05 29 37 voor meer informatie.;1;True;0481 05 29 37
+In het weekend belde ik mijn vriend op het nummer 0458 41 57 16.;1;True;0458 41 57 16
+Ik heb gisteren mijn nieuwe Belgische telefoonnummer 014 50 60 61 opgegeven.;1;True;014 50 60 61
+Ik heb onlangs een klant geholpen met zijn Belgische telefoonnummer 080 23 02 70.;1;True;080 23 02 70
+Ik zag dat je mijn oude schoolnummer, 067782675, hebt gevonden.;0;False;067782675
+Ik heb gisteren een afspraak gemaakt bij de dokter, maar ik vergat de code 1234ABCD te noteren.;0;False;1234ABCD
+Mijn favoriete nummer is 1995, maar ik hou ook van Belgische telefoonnummers.;0;False;1995
+Ik heb gisteren de pizza besteld met de code 1234567890 bij een restaurant.;0;False;1234567890
+In de boekhouding staat een referentienummer, namelijk 032456789, dat belangrijk is voor de audits.;0;False;032456789
+Als je me wilt bellen, kun je dat proberen via 0489-650883.;1;Edge;0489-650883
+België blijft een prachtig land om te bezoeken, maar als je dringend iemand moet bellen, gebruik dan dit nummer: 0452584324.;1;Edge;0452584324

@@ -1,0 +1,100 @@
+[tool.poetry]
+name = "gptnl-regex-formatter"
+version = "0.1.0"
+description = "Regex-formatter to remove certain regex expression in a document."
+authors = ["TNO <info@tno.nl>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+datatrove = {version = ">=0.2.0,<0.4.0", extras = ["processing"]}
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.2"
+ruff = "^0.4.8"
+black = "^24.4.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.ruff]
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".git-rewrite",
+    ".hg",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".pytype",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "venv",
+]
+
+select = [
+    "B",   #bugbear
+    "D",   #pydocstyle
+    "BLE", #flake8-blind-except
+    "C4",  #flake8-comprehensions
+    "ERA", #eradicate
+    "E",   #pycodestyle
+    "F",   #Pyflakes
+    "N",   #pep8-naming
+    "I",   #isort
+    "PL",  #Pylint
+    "UP",  #pyupgrade
+    "SIM", #flake8-simplify
+    "TCH", #flake8-type-checking
+    "PTH", #flake8-use-pathlib
+    "TID", #flake8-tidy-imports
+    "PT",  #flake8-pytest-style
+    "W",   #pycodestyle
+    "RUF", #ruff
+]
+show-fixes = true
+pydocstyle.convention = "google"
+
+# Same as Black.
+line-length = 88
+indent-width = 4
+
+# Assume Python 3.11
+target-version = "py311"
+
+[tool.ruff.lint]
+ignore = ["D100", "D101", "D102", "D104", "D211", "D213"]
+
+# Allow fix for all enabled rules (when `--fix`) is provided.
+fixable = ["ALL"]
+unfixable = []
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[tool.ruff.lint.per-file-ignores]
+# Ignore `E402` (import violations) in all `__init__.py` files, and in select subdirectories.
+"__init__.py" = ["E402", "F401"]
+"**/{tests,docs,tools}/*" = ["E402"]
+
+[tool.ruff.format]
+# Like Black:
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"

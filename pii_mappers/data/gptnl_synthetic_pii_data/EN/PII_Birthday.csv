@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+My sister's birthday is on March 12th, and we are planning a surprise party.;1;True;March 12th
+Last year, we celebrated the neighbor's birthday on April 15th with a big party.;1;True;April 15th
+My niece was born on April 2nd 1999.;1;True;April 2nd 1999
+My younger sister will be turning 16 on August 12th this year.;1;True;August 12th
+My sister was born on March 15 2007, and we are planning a party.;1;True;March 15 2007
+My friend's wedding anniversary is on June 15th and we celebrated it together.;0;False;June 15th
+Last week's team meeting fell on December 25, which is an important date for more than just one reason.;0;False;December 25
+When I saw his license, I noticed it was issued on May 12, 2020.;0;False;May 12, 2020
+After years of careful planning, our anniversary celebration on July 14th turned out to be unforgettable.;0;False;July 14th
+When we celebrated her graduation on April 15th, everyone had a wonderful time.;0;False;April 15th
+My friend's birthday on 12-12, which makes it more memorable.;1;Edge;12-12
+On the day I was born, which was July fourth, my family celebrated with fireworks.;1;Edge;July fourth

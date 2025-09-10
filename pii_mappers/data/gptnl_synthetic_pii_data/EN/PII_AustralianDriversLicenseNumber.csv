@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I showed my Australian driver's license number AB938f9Q2 to the officer.;1;True;AB938f9Q2
+I just renewed my Australian driver's license with the number 9202KSL92;1;True;9202KSL92
+The driver's license number on my Australian driver's license is LS9403;1;True;LS9403
+I just got my new Australian driver's license with the number 0593483;1;True;593483
+I just received my Australian Drivers License with the number JF93fls92;1;True;JF93fls92
+The license plate number 0--------0--------0 is causing some confusion at the DMV.;0;False;
+I just received my new car registration with the number 0/1/2//3/4/5/////.;0;False;
+I found a document with the code 1@234-567jf8-901%2 on it.;0;False;
+I received a special delivery containing my packages234.;0;False;
+The registration number on my Australian passport is ???????.;0;False;
+I realized my Australian driver's license number, AB9 2F JS KF!, was missing just before my flight.;1;Edge;AB9 2F JS KF
+Last month, I saw my friend pull out her driver's license, 923.940 124, to verify her age at the bar.;1;Edge;923.940 124

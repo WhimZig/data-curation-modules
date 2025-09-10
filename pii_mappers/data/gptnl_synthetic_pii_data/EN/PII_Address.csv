@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+After moving to 1234 Elm Street in Springfield, I felt more at home.;1;True;1234 Elm Street
+Last weekend, I visited my friend at 42 Maple Street in Springfield.;1;True;42 Maple Street
+I live at 1047 Maple Road, and it's a lovely neighborhood.;1;True;1047 Maple Road
+After moving to 204 Elm Crescent, I finally settled into my new home.;1;True;204 Elm Crescent
+After moving to 6 Maple Street last year, I finally feel at home.;1;True;6 Maple Street
+After they received my bank account details, they said I should wait for the transfer.;0;False;
+Despite the heavy traffic in the area, the festival was a huge success.;0;False;
+The package was delivered in Oak Town on Tuesday.;0;False;
+After receiving the parcel, I realized my watch had been lost at the time of delivery.;0;False;
+After traveling for hours, we finally reached the bakery in New York, which was known for its amazing pastries.;0;False;
+When we drove through Maple Street, birds  I couldn't believe how beautiful the houses were located at 45Breeze Avenue.;1;Edge;45Breeze Avenue
+I used to live near the famous coffee shop on Elm Street-43.;1;Edge;Elm Street-43

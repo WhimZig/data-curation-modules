@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I recently had to update my address on my driving license, which is MANSO755223CL9AM.;1;True;MANSO755223CL9AM
+I need to update my address on my UK driver's license number FORD9905045AL9OF.;1;True;FORD9905045AL9OF
+After receiving my application, the DVLA issued my driving license with the number BONAI604126HE9OB.;1;True;BONAI604126HE9OB
+After checking my paperwork, I realized my driver's license number is AUDIT657243GL9UA.;1;True;AUDIT657243GL9UA
+I recently renewed my UK driver's license, which has the number MANSO956156JA9AM;1;True;MANSO956156JA9AM
+The code AB123456C was used for my online grocery order verification.;0;False;AB123456C
+My driver's license number is 3 times longer than my favourite number.;0;False;3
+I checked my bank account and noticed the amount is 2419;0;False;2419
+I verified my e-mail address using the code 8510 when applying for my driving license.;0;False;8510
+My library card number ends in 128, and it allows me to borrow books.;0;False;128
+While reviewing my bank application, I realized my license number was POTTE759155YV9OP.;1;Edge;POTTE759155YV9OP
+The driver's license number is ROGER 910107 AL 9 OR, which he often uses for identification.;1;Edge;ROGER 910107 AL 9 OR

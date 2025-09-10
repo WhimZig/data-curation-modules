@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I submitted my tax return last week with my TFN 267 265 069;1;True;267 265 069
+After reviewing his tax documents, he found his tax file number 106 469 491 and realized he needed it for filing.;1;True;106 469 491
+My tax file number for this financial year is 417 102 355;1;True;417 102 355
+When filling out my tax return, I realized I needed my TFN, which is 073 642 61;1;True;073 642 61
+I need to provide my tax file number, which is 785 623 293, to the accountant.;1;True;785 623 293
+I need to provide my client number, which is 1397 321 382, for the new appointment.;0;False;1397 321 382
+I need to provide my account number, which is D1234567;0;False;D1234567
+If you want your refund processed faster, please provide your 1234-567-890 number.;0;False;1234-567-890
+My personnel number is 228428911, and I need assistance with that.;0;False;228428911
+Last week, I received a notice stating my account number is 06284351;0;False;06284351
+During the tax season, I realized my tax file number was 571550091;1;Edge;571550091
+During the tax preparation process, I realized my TFN was missing, and I found it to be 736-397-482;1;Edge;736-397-482

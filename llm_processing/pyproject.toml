@@ -1,0 +1,23 @@
+[project]
+name = "gptnl-llm-processing"
+version = "0.1.13"
+description = "Process text through LLMs"
+authors = [{name = "TNO", email = "info@tno.nl"}]
+license = "Apache 2.0"
+readme = "README.md"
+requires-python = ">=3.10,<4"
+
+dependencies = [
+    "vllm (>=0.8.2)",
+    "datatrove (>=0.3.0)",
+    "flashinfer-python (>=0.2.2)", # FlashInfer for faster inference
+    "pyarrow (>=16.1.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
