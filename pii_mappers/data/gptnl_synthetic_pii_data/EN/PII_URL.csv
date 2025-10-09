@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I found the best recipes at https://www.cookingdelights.com this week.;1;True;https://www.cookingdelights.com
+To learn more about our services, please visit our website at https://www.example.com.;1;True;https://www.example.com
+After checking the project details, I found the url: https://example.com/projects/2023 to be very informative.;1;True;https://example.com/projects/2023
+The company's website can be found at https://www.example.com for more details.;1;True;https://www.example.com
+To find more information about the project, visit https://www.example-project.com today.;1;True;https://www.example-project.com
+After entering the tracking code 123-ABC-456 on the website, I received an email confirmation.;0;False;123-ABC-456
+While preparing for the exam, I found my old student ID 54321-67890 in the folder.;0;False;54321-67890
+The meeting code for our team is 1234-5678-9101, please join us.;0;False;1234-5678-9101
+When the team arrived at the meeting, they found the project code 123-XYZ456 on a clipboard.;0;False;123-XYZ456
+I need to remember the reference number 345-678-9012 for my application.;0;False;345-678-9012
+Check out the latest updates on our project at http://example.com/current_status and let us know your thoughts!;1;Edge;http://example.com/current_status
+The detailed report can be accessed at https://example.com/report?id=12345;1;Edge;https://example.com/report?id=12345

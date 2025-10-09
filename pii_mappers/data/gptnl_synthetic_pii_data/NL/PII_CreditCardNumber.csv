@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Tijdens het online winkelen gebruikte ik mijn creditcardnummer 5597809355725070 om de aankoop te voltooien.;1;True;5597809355725070
+Tijdens het winkelen gebruikte ik mijn creditcard met het nummer 3408 623016 19849.;1;True;3408 623016 19849
+Als ik afreken met mijn creditcard met het nummer 3576 8292 3893 9730, ben ik verzekerd tegen schade.;1;True;3576 8292 3893 9730
+Als ik online iets koop, moet ik altijd mijn creditcardnummer, 4389 7373 7598 8797, invoeren.;1;True;4389 7373 7598 8797
+Ik ben mijn creditcard kwijtgeraakt gisteren: hij is van Mastercard en heeft het nummer: 4532 5612 3456 7890.;1;True;4532 5612 3456 7890
+De code voor de validatie is 1234-5678-9101, maar het is geen creditcardnummer.;0;False;1234-5678-9101
+Mijn vriend heeft een oude lidmaatschapsnummer dat begint met 1234 en eindigt met 5678;0;False;lidmaatschapsnummer
+Vandaag ontving ik een pakketje met het volgnummer 1234-5678-9101;0;False;1234-5678-9101
+Tijdens het controleren van de werkorders, kwam ik een referentiecode tegen: 1234-5678-9012-3456, die we voor de facturering gebruiken.;0;False;1234-5678-9012-3456
+Tijdens onze vakantie in Frankrijk, zagen we dat het GPS-coördinaten 48.8566° N, 2.3522° E waren.;0;False;48.8566° N, 2.3522° E
+De bestelling is betaald met de kaart met nummer 3189-1284-3571-3583 en het was een zeer snelle levering.;1;Edge;3189-1284-3571-3583
+Tijdens mijn bezoek aan de supermarkt, gebruikte ik mijn kaart 453 262 101 859 321 0 voor de betaling.;1;Edge;453 262 101 859 321 0

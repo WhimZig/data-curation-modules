@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+To complete your online purchase I entered the CVV code 292 in the required field.;1;True;292
+To complete your online purchase, please enter your CVV code: 511;1;True;511
+To finalize my online purchase, I need to enter the CVC code 243 from my credit card.;1;True;243
+I need to enter my CVV code, which is 456, to complete the purchase.;1;True;456
+While making an online purchase, I entered my CVV code 512 to complete the transaction.;1;True;512
+The package tracking number is 12345A and should arrive tomorrow.;0;False;
+A security code (like 1234) on the back of your phone is crucial for verification.;0;False;
+After a careful examination, I found the code 223-707 for the software update.;0;False;
+A password like 055, is not very secure.;0;False;
+When I asked for the wifi password, they provided me with code 1984, but that wasn't what I needed.;0;False;
+During my online shopping yesterday, I mistakenly entered my CVV code '372' instead of my password.;1;Edge;372
+After checking my wallet, I realized I had my credit card with the CVV code 6-1-1, which I need to enter online.;1;Edge;6-1-1

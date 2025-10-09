@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Ik heb de internationale telefoonnummer +31 20 473 5710 nodig om te bellen.;1;True;+31 20 473 5710
+Als je me wilt bereiken, gebruik dan het internationale telefoonnummer +31 30 273 7234.;1;True;+31 30 273 7234
+De klantenservice is bereikbaar op +31 10 6477822 voor internationale vragen.;1;True;+31 10 6477822
++31 6 81720022 is het internationale telefoonnummer dat ik voor mijn Nederlandse vrienden gebruik.;1;True;+31 6 81720022
+Als je me wilt bereiken, bel dan naar +31699472546.;1;True;+31699472546
+Vandaag heb ik een cadeau gekocht voor mijn vriend met de code 1234-5678.;0;False;1234-5678
+De code om toegang te krijgen tot het beveiligde systeem is 31-202-5123.;0;False;31-202-5123
+Ik heb onlangs een kaart ontvangen met het nummer 12345;0;False;12345
+In de vergadering werd een geheim projectnummer 90754956129 gepresenteerd dat veelbelovende resultaten laat zien.;0;False;90754956129
+De code voor het toegangssysteem is 1234ABCD;0;False;1234ABCD
++316-83769876 is mijn nieuwe nummer waarmee je me kunt bereiken.;1;Edge;+316-83769876
++31 30 39 37 84 77 is mijn tijdelijke nummer terwijl ik in Nederland ben.;1;Edge;+31 30 39 37 84 77

@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn e-mailadres is jan.smits@email.com, dus je kunt me daar bereiken.;1;True;jan.smits@email.com
+Ik heb je eerdere bericht ontvangen op mijn e-mailadres zoe.doe@ziggo.com.;1;True;zoe.doe@ziggo.com
+Ik heb een e-mail ontvangen van traian@suksesboss.com over het project.;1;True;traian@suksesboss.com
+Ik heb een belangrijke e-mail gestuurd naar jan@gmail.com om de vergadering te bevestigen.;1;True;jan@gmail.com
+Je kunt mij bereiken op het e-mailadres sandra.van.de.vliet.bijma.xoxo@hotmail.com voor meer informatie.;1;True;sandra.van.de.vliet.bijma.xoxo@hotmail.com
+Hoewel hij de unieke code 12345 nodig had voor de registratie, was zijn e-mail niet beschikbaar.;0;False;12345
+De toegangscode voor mijn bankrekening is zeer geheim.;0;False;zeer geheim
+De code die je zoekt is 9444-8797 en ligt in de documentatie.;0;False;9444-8797
+De afspraak voor de training begint om 14:00 uur en de code die je nodig hebt is 987654;0;False;987654
+Tijdens de vergadering werd het projectnummer 1234-5678-9100 genoemd om de voortgang te bespreken.;0;False;1234-5678-9100
+Mijn collega, die vaak met klanten communiceert, heeft ons het wachtwoord verteld voor maria_234.ding@gmail.com.;1;Edge;maria_234.ding@gmail.com
+Je kunt me bereiken via mijn e-mail: nurimjankumbat [at] dmxs8 [dot] com, maar laat het ook weten als je hulp nodig hebt.;1;Edge;nurimjankumbat [at] dmxs8 [dot] com

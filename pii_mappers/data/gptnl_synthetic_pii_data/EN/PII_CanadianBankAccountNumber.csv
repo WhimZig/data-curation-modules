@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I will transfer the money to my canadian bank with the number 4117948.;1;True;4117948
+My Canadian bank account number is 218949931652, which I need to transfer funds.;1;True;218949931652
+To finalize the transaction, please provide your Canadian bank account number 649372025168.;1;True;649372025168
+After confirming my identity, the bank representative provided me with my Canadian bank account number, which is 9830353.;1;True;9830353
+When I checked my bank details, I found the Canadian account number 9743618.;1;True;9743618
+I was surprised to find out that my friend's membership ID is 1234-5678-9012-3456.;0;False;1234-5678-9012-3456
+Last week, I received a strange call about my second bank record.;0;False;second
+During my last visit, I received a reference number 9743618 for the transaction.;0;False;9743618
+My school ID number is 4743912, which should be kept private.;0;False;4743912
+I received my utility bill, but the account number was 12345-6790;0;False;12345-6790
+The bank account number I received was 2334-6562-8819, and it needs to be verified.;1;Edge;2334-6562-8819
+Last month, I opened a new account with my Canadian bank, and my account number is 47 43 912.;1;Edge;47 43 912

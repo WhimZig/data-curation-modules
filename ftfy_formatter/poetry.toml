@@ -1,0 +1,7 @@
+[repositories.tno-gptnl]
+url = "https://ci.tno.nl/gitlab/api/v4/projects/16649/packages/pypi"
+
+[http-basic.tno-gptnl]
+username = "__token__"
+password = "glpat-5ijEbQQN_cg1BVgeidch"
+# This is a project access token of the private package index and expires on July 3, 2025.

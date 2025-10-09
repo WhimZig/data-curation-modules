@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn vriend woont op de Laan van Meerdervoort 123 in Den Haag.;1;True;Laan van Meerdervoort 123
+De directie van het bedrijf heeft het kantoor op de Singel 234 gevestigd.;1;True;Singel 234
+Op de Kalverstraat zijn de winkels het mooist versierd.;1;True;Kalverstraat
+Naar het kantoor aan de Herengracht 123 in Amsterdam moet ik vanmiddag gaan.;1;True;Herengracht 123
+Als je me wilt bezoeken, mijn adres is Kerkweg 12 in Amsterdam.;1;True;Kerkweg 12 in Amsterdam
+Mijn moeder woont in het kleine huis met een grote tuin.;0;False;
+De codes voor de digitale producten zijn te vinden in mijn e-mail;0;False;
+Gisteren ontmoette ik mijn oude vriend op de hoek van de straat voor zijn nieuwe fiets.;0;False;
+De snelweg A1 leidt naar veel verschillende bestemmingen in Nederland.;0;False;
+In januari verhuisde ik naar 12345, een postcode die niemand hier kent.;0;False;
+Mijn zus en ik moeten morgen naar de van der Helstlaan 12 gaan voor een verjaardagsfeest.;1;Edge;van der Helstlaan 12
+De nieuwe winkel op het Smalle Pad is vandaag geopend.;1;Edge;Smalle Pad

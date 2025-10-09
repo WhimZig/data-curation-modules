@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Tijdens de aanvraagprocedure voor mijn verblijfsvergunning, moest ik mijn v-nummer op het vreemdelingendocument vermelden, namelijk 8269140171.;1;True;8269140171
+Tijdens mijn verblijf in Nederland ontving ik mijn vreemdelingendocument met het v-nummer 2102020781.;1;True;2102020781
+Tijdens mijn verblijf in Nederland kreeg ik een vreemdelingendocument met het VNR 4907892683.;1;True;4907892683
+Ik heb mijn vreemdelingendocument met v-nummer 0586521214 vandaag vernieuwd.;1;True;0586521214
+De vreemdelingenbond heeft mijn V nummer 0851245832 in behandeling genomen.;1;True;0851245832
+De pizzabezorger bracht een pakket met het nummer 9606956165 bij ons thuis.;0;False;
+Het telefoonnummer van de ondersteuning voor vragen is onbekend.;0;False;
+Mijn klacht bij de gemeente is geregistreerd onder nummer 9355997013;0;False;
+De medewerker vroeg naar mijn BSN-nummer en het vreemdelingennummer was niet relevant.;0;False;
+De persoon met het nummer 1234-5678 kan zich niet identificeren.;0;False;
+Vorige week kreeg ik een brief met het V-nummer 9384788131 van mijn vreemdelingendocument.;1;Edge;9384788131
+Ik ben zijn hulpverlener en het v-nummer op mijn vreemdelingendocument is 2533549726;1;Edge;2533549726

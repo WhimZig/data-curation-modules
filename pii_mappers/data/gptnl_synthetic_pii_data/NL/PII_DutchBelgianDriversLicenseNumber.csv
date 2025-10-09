@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Toen ik mijn rijbewijs ging vernieuwen, ontdekte ik dat mijn stuurvergunning nummer 5319409475 verloren was.;1;True;5319409475
+Mijn rijbewijs nummer is 7918422413 en het is onlangs vernieuwd.;1;True;7918422413
+Ik moet mijn rijbewijsnummer, 6297135753, bij de autoriteiten indienen.;1;True;6297135753
+Graag ontvang ik een kopie van mijn rijbewijs met nummer 0694023379 voor het aanvragen van een verzekering.;1;True;0694023379
+Vandaag heb ik mijn rijbewijsnummer gecontroleerd en het is 9980264889;1;True;9980264889
+Tijdens ons gesprek noemde hij dat zijn identificatienummer 1234-ABCD-5678 was, wat niet zijn rijbewijsnummer is.;0;False;1234-ABCD-5678
+De code voor jouw inschrijving is 593371297, maar dat is geen rijbewijsnummer.;0;False;593371297
+Vandaag heb ik een klantnummer 3773.1294.4639 ontvangen, maar ik zoek nog mijn rijbewijsgegevens.;0;False;3773.1294.4639
+Ik heb vorige week mijn account geopend met het nummer 123456789, maar ik moet mijn rijbewijsnummer nog doorgeven.;0;False;123456789
+Een vriend van mij heeft de code 1234-ABCD-5678 op zijn visitekaartje staan.;0;False;1234-ABCD-5678
+Het nummer op mijn rijbewijs is 93 71 83 94 46 en ik ben vergeten het op te schrijven.;1;Edge;93 71 83 94 46
+Ik heb mijn rijbewijsnummer 806-322-0418 hervonden in een oude doos.;1;Edge;806-322-0418

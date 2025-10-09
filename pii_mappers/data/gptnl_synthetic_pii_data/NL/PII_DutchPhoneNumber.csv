@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+U kunt mij bereiken op het telefoonnummer 06 41672955 voor meer informatie.;1;True;06 41672955
+Tijdens het gesprek gaf hij zijn Nederlandse telefoonnummer 033 4613153  door.;1;True;033 4613153
+Kun je me bellen op +316-46213356 als je aankomt?;1;True;+316-46213356
+Mijn nieuwe buurman heeft me zijn telefoonnummer gegeven: 06-94785157, zodat we elkaar kunnen bereiken.;1;True;06-94785157
+Tijdens de vergadering gaf de voorzitter haar telefoonnummer, 06-98723115, door om later contact op te nemen.;1;True;06-98723115
+Het inspelen op spelnummers zoals 06 blijkt cruciaal voor onze strategie.;0;False;
+Mijn referentienummer voor de banktransactie is 3522296541;0;False;
+De code voor het inloggen is 020-1234567, maar ik noem hem nooit hardop.;0;False;
+Mijn favoriete paspoortnummer is AB1234567, maar ik deel graag mijn telefoonnummer.;0;False;
+Een klant heeft het product besteld met ordernummer 0123-4567890 en verwacht het snel;0;False;
+Als je me wilt bereiken, kun je me bellen op 06-598-956-45, maar stuur geen sms'jes.;1;Edge;06-598-956-45
+Bel je me straks op nul zes drie zes zes vijf zeven zeven een vierzodat we een diner kunnen plannen?;1;Edge;nul zes drie zes zes vijf zeven zeven een vier

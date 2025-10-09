@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+After connecting my laptop to the network, I checked the MAC address, which was F3-F1-9E-CB-A5-57.;1;True;F3-F1-9E-CB-A5-57
+After connecting to the network, I checked the MAC address which was D6:CF:D1:70:72:0C.;1;True;D6:CF:D1:70:72:0C
+The device with the MAC address 6C15.4472.53E8 was disconnected from the network.;1;True;6C15.4472.53E8
+My computer's MAC address is 30FE4908CFA0 which I need to configure.;1;True;30FE4908CFA0
+The MAC address 00-5e-99-52-b8-cf is registered in the network logs.;1;True;00-5e-99-52-b8-cf
+The serial number ECHS-1278-PFBH-3290 is required for the warranty claim.;0;False;ECHS-1278-PFBH-3290
+The unique identifier for the printer in the office is 20:ed:77, which connects via Wi-Fi.;0;False;20:ed:77
+While troubleshooting my network connection, I noticed my printer's name was c8e0.20ae, which seemed unusual.;0;False;c8e0.20ae
+The tracking number for my package is c64ade213.;0;False;c64ade213
+A recent analysis showed that the unique identifier for the device was 00:1A, which raised security concerns.;0;False;00:1A
+My old laptop's MAC address, labeled as 1d-0b-15-c9-d5-6f, could be misused by hackers.;1;Edge;1d-0b-15-c9-d5-6f
+My home network has a device with the mac address 9c:68:a2:9c:ac:ea connected to it.;1;Edge;9c:68:a2:9c:ac:ea

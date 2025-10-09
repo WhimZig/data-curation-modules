@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+To access the project files, please navigate to C:\Users\EvangelineEstes\Documents\ProjectFiles\Report.docx;1;True;C:\Users\EvangelineEstes\Documents\ProjectFiles\Report.docx
+The configuration file can be found at /users/config/settings.json.;1;True;/users/config/settings.json
+The backup files are located at C:\Users\Preston\Documents\Reports\2023\MonthlySummary.docx;1;True;C:\Users\Preston\Documents\Reports\2023\MonthlySummary.docx
+I saved the report in the folder located at /Rose/documents/reports/2023_financials.pdf;1;True;/Rose/documents/reports/2023_financials.pdf
+I saved the project files in the directory C:\Users\Corey Knowles\Documents\ProjectFiles;1;True;C:\Users\Corey Knowles\Documents\ProjectFiles
+The report is saved in the folder labeled 4012345678;0;False;4012345678
+The report was saved at the shared folder for future reference.;0;False;shared folder
+The report was called report_2023.pdf last week.;0;False;report_2023.pdf
+The medical records can be found at patient_data folder;0;False;patient_data
+The recipe is stored at as banana_bread_123.pdf;0;False;banana_bread_123.pdf
+After reviewing the project documents, I found the file located at D:\Reports\2023\Q1\final report.docx.;1;Edge;D:\Reports\2023\Q1\final report.docx
+After reviewing the data, I found the file located at \ProjectFiles\Report.docx;1;Edge;\ProjectFiles\Report.docx

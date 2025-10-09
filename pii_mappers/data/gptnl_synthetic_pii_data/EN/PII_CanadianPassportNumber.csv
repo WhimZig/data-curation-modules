@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I was told that my Canadian passport number is ER551809.;1;True;ER551809
+I need to renew my Canadian passport, and my number is MD603066.;1;True;MD603066
+When applying for a job, I had to provide my passport number, which is WF472311;1;True;WF472311
+I just received my new Canadian passport, number FB427683, last week.;1;True;FB427683
+When applying for a job, I had to provide my Canadian passport number, which is BM586406;1;True;BM586406
+When applying for a visa, I provided my license number 633487;0;False;633487
+The documents include a code that resembles a passport number: BM586406.;0;False;BM586406
+My sport club number was indeed 123-45-6789.;0;False;123-45-6789
+The code I received for the online game tournament was BC123456789;0;False;BC123456789
+My friend recently traveled to Canada and showed me his membership card number 198769.;0;False;198769
+I found a document with the Canadian passport number QP 49 24 15, which I need to return.;1;Edge;QP 49 24 15
+I found my old Canadian passport, and the number is QZ-73-66-13.;1;Edge;QZ-73-66-13

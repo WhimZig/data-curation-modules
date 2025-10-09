@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+To complete my registration, I had to provide my VAT number BE0542397670 for verification.;1;True;BE0542397670
+Our company registered for a VAT number in Europe, which is DE624744567, for tax purposes.;1;True;DE624744567
+The company's European VAT number is CZ24891216, which is needed for invoicing.;1;True;CZ24891216
+To complete the business transaction, I provided the VAT number which is DK73443079;1;True;DK73443079
+The company's European VAT number is FR35433842628, which we need for tax purposes.;1;True;FR35433842628
+The company's membership number is 26592493788 and should be used in communication.;0;False;26592493788
+The registration number for our business is 9598008;0;False;9598008
+The a random number that is not a VAT number is 2318365;0;False;2318365
+The invoice for services rendered includes a reference to the tax ID, 9 digits.;0;False;9 digits
+The document contains a number that represents the company's values 5939135.;0;False;5939135
+During the transaction, we need the VAT number NL 883378681 B01 to process your invoice correctly.;1;Edge;NL 883378681 B01
+In order to process the refund, you will need to provide your VAT number, which is BE-0143735687.;1;Edge;BE-0143735687

@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+After reviewing my application, I noticed that my US passport number D77511321 is missing.;1;True;D77511321
+When applying for a visa to the UK, I provided my passport number 893534232.;1;True;893534232
+My passport number is F42885279, which I need for travel outside the US.;1;True;F42885279
+When I traveled to the UK last summer, my passport number was R502841124.;1;True;R502841124
+When traveling outside the US, I always keep my passport number 449335680 in mind.;1;True;449335680
+While applying for a new job, I had to provide verification code 954198829.;0;False;954198829
+While traveling, I accidentally noted down my friend's favourite number, which is 62626272.;0;False;62626272
+While traveling to the US, I realized I had forgotten my driving license.;0;False;driving license
+I accidentally mixed up my old phone number with my travel booking reference 7907-977-9319.;0;False;7907-977-9319
+My sister's passport number is easy as 123.;0;False;123
+The official travel document number on my application is 537359452.;1;Edge;537359452
+During my trip, I accidentally lost my passport, which the number is X440834022.;1;Edge;X440834022

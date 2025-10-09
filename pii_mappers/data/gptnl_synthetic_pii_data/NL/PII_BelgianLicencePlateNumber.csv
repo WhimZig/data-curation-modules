@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Gisteren zag ik een auto met het nummerbord 1-XQZ-482 rijden.;1;True;1-XQZ-482
+De auto met het nummerbord 5MNB713 rijdt elke dag langs mijn huis.;1;True;5MNB713
+Een auto met het Belgische kenteken BDF-234 is hier geparkeerd.;1;True;BDF-234
+Recentelijk zag ik een auto met het nummerplaat RE.585 in Brussel.;1;True;RE.585
+Gisteren zag ik een auto met het Belgisch kenteken B.234.C rijden.;1;True;B.234.C
+Tijdens het gesprek noemde hij dat zijn favoriete boek het nummer 978-3-16-148410-0 is.;0;False;978-3-16-148410-0
+De geheime code voor toegang tot het gebouw is 9876AB.;0;False;9876AB
+Gisteren zag ik een fiets met het nummer 456-ABC dat vergeten was.;0;False;456-ABC
+Een ongeval gebeurde laatst op de E40 met de auto met raar kenteken.;0;False;E40
+Vandaag heb ik een afspraak met mijn dokter om 12:30 in Antwerpen, en ik moet mijn verzekeringsnummer 123456789 meenemen.;0;False;123456789
+De auto met het kentekenplaatnummer 3 PLK 256 heeft een lekke band op de snelweg.;1;Edge;3 PLK 256
+Ik zag een auto met het nummerplaat X.890.Y op de snelweg rijden.;1;Edge;X.890.Y

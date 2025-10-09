@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn identiteitsdocumentnummer is AB12345C6.;1;True;AB12345C6
+De buurman heeft zijn paspoortnummer XY9Z8W7Q1 al ingeleverd bij de gemeente.;1;True;XY9Z8W7Q1
+Ik heb mijn identiteitsdocumentnummer MN0PQR2S3 in die e-mail genoemd.;1;True;MN0PQR2S3
+Mijn identiteitsdocumentnummer is JKL4567M8, dat moet ik bij de aanvraag opgeven.;1;True;JKL4567M8
+Mijn paspoortnummer is UV1WX2Y3Z voor mijn aanvraag;1;True;UV1WX2Y3Z
+De klant vroeg naar zijn bankrekeningnummer, dat was een lange reeks.;0;False;
+De code van mijn abonnement is 5749-1685-1863.;0;False;
+Het nummer op mijn verzekeringspolis is 1234-ABCD-5678.;0;False;
+Ik kreeg een e-mail van mijn bank met het contactnummer 1234567890.;0;False;
+De klant gaf zijn rijbewijs nummer aan de medewerker.;0;False;
+Mijn identiteitsdocument nummer is CD 4EFG5H 7 en ik heb het nodig voor de aanvraag.;1;Edge;CD 4EFG5H 7
+Mijn vriendin heeft onlangs haar identiteitsbewijs vernieuwd en het nummer is 'QR 2STU3V 9', dat moet ik echt onthouden.;1;Edge;QR 2STU3V 9

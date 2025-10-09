@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+MY UTR number to file my taxes is 4467939455.;1;True;4467939455
+I need to provide my Unique Taxpayer Reference Number, which is 7435379504, to complete my tax return.;1;True;7435379504
+After submitting my tax return, I received my tax reference: 1256400062.;1;True;1256400062
+I need to provide my UTR nr, which is 1160336291, to complete my tax return.;1;True;1160336291
+During the tax filing process, please enter your unique taxpayer reference number: 7870671926;1;True;7870671926
+My code is A1234567, and I need it for verification.;0;False;A1234567
+Despite needing my unique reference for tax purposes, I found that my national insurance number could also be used.;0;False;number
+After submitting my application, I received a reference code: 1060469855.;0;False;1060469855
+The reference number on the form was 1840821.;0;False;1840821
+After reviewing my financial records, I noticed the reference codes are critical for my tax submission.;0;False;reference codes
+The unique taxpayer reference number I received was 01 14 94 18 74, which I need to keep safe.;1;Edge;01 14 94 18 74
+In order to verify your tax records, please provide your unique taxpayer reference number (5724414530);1;Edge;5724414530

@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+After collaborating with Tech Innovations LLC on several projects, I found their approach to be quite impressive.;1;True;Tech Innovations LLC
+The international non-profit organization called Green Earth Initiative focuses on environmental conservation.;1;True;Green Earth Initiative
+The Affinity Group has recently expanded its services to new regions.;1;True;Affinity Group
+The new project collaboration with Tech Innovators Inc. is very promising.;1;True;Tech Innovators Inc.
+The researchers at Quantum Innovations have developed a groundbreaking technology.;1;True;Quantum Innovations
+After reviewing the CCO's impressive campaign contributions, the committee decided to support him further.;0;False;the CCO
+While discussing recent achievements, she mentioned she had received a prestigious award from a world renowned committee.;0;False;committee
+After celebrating her birthday, she finally decided to start her own business named after her grandma's rabbit.;0;False;grandma's rabbit
+The tech conference in Seattle attracted interest from many startups with futuristic and innovative names.;0;False;futuristic and innovative names
+The patient admitted to the local hospital provided a detailed history.;0;False;the local hospital
+The annual charity gala organized by the Foundation for Wild Life will take place soon.;1;Edge;Foundation for Wild Life
+Although the organization known as Clean Ocean Initiative has made strides in marine conservation, public awareness remains low.;1;Edge;Clean Ocean Initiative

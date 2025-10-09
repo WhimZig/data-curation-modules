@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I just purchased a new laptop online using my credit card number 5429-2812-5906-3400.;1;True;5429-2812-5906-3400
+To complete your purchase, please enter your credit card number: 4339-5984-0079-6725.;1;True;4339-5984-0079-6725
+When I tried to make an online purchase, I entered my credit card number 4532-1488-2365-9076 to complete the transaction.;1;True;4532-1488-2365-9076
+I will be using my credit card number 3794 525025 20105 for the online purchase.;1;True;3794 525025 20105
+After entering my details, I realized my credit card number 3676 405356 0610 was stored online.;1;True;3676 405356 0610
+The new initiative tracking employee IDs must ensure they're secure, like 4987-5072-2781.;0;False;4987-5072-2781
+I just received a package with the tracking number 4987508825105688.;0;False;4987508825105688
+The package tracking number you provided was 5475-0379-4424-5627.;0;False;5475-0379-4424-5627
+Last month's utility bill had an unusually high code of 5475039734810842.;0;False;5475039734810842
+While organizing my collection of gift cards, I found one with the code 5475034182806350 that I forgot to use.;0;False;5475034182806350
+My older brother's favorite credit card number, which he never shares, is 340000742617441.;1;Edge;340000742617441
+My friend’s card number, 341 374 330 437 580, is often shared with family during trips.;1;Edge;341 374 330 437 580

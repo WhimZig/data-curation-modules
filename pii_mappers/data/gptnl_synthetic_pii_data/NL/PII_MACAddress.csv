@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Tijdens het configureren van mijn router ontdekte ik dat het MAC-adres 6DE0.985D.2E92 actief was.;1;True;6DE0.985D.2E92
+De MAC-adres van mijn laptop is 73:B6:64:26:C8:63, en ik heb het nodig voor netwerkinstellingen.;1;True;73:B6:64:26:C8:63
+De netwerkscanner vond een apparaat met het MAC-adres 91:45:BB:07:CC:DF;1;True;91:45:BB:07:CC:DF
+Toen ik mijn computer opnieuw instelde, merkte ik dat de MAC-adres 001B638445E6 werd weergegeven op het scherm, wat me verbaasde.;1;True;001B638445E6
+Tijdens het oplossen van het netwerkprobleem ontdekte ik dat de MAC-adres A0B2.D208.65C4 connectiviteitsproblemen veroorzaakte.;1;True;A0B2.D208.65C4
+Mijn telefoon heeft het serienummer ABCD1234EFGH en dat is erg belangrijk voor de garantie.;0;False;ABCD1234EFGH
+Ik heb de code 00:1A:2B:3C:4D:5E nodig voor het registratieformulier.;0;False;00:1A:2B:3C:4D:5E
+In de e-mail stond dat het product met serienummer 98:7A:16:8C:AB:12 binnen een week zou aankomen.;0;False;98:7A:16:8C:AB:12
+De serienummers van de apparaten zijn D4:5F:47:8A:BC:12, maar de MAC-adressen ontbreken.;0;False;D4:5F:47:8A:BC:12
+Tijdens de netwerkconfiguratie ontdekte ik dat de printer het serienummer 00:1A:2B:3C:4D:5E had.;0;False;00:1A:2B:3C:4D:5E
+Ik ontdekte dat mijn laptop de MAC-adres 2B-E7-9A-DD-03-79 heeft, wat erg handig is.;1;Edge;2B-E7-9A-DD-03-79
+Mijne telefoon is verbonden met het netwerk waarvan de MAC-adres 6022.8047.C875 is.;1;Edge;6022.8047.C875

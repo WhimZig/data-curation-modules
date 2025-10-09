@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+I need to provide my ITIN, which is 991-78-8867, for the tax filing.;1;True;991-78-8867
+I need to provide my Social Security number and 927747146 for my tax filing.;1;True;927747146
+When filing my taxes last year, I used my Individual Taxpayer Identification Number 979 84 5137 instead of the SSN .;1;True;979 84 5137
+Last year, I filed my taxes using the IRS number 900-90-2437.;1;True;900-90-2437
+In order to file my taxes this year, I need to provide my SSN, but my US Individual Taxpayer Identification Number is 920-94-0167.;1;True;920-94-0167
+In her application for a business license, she mistakenly wrote down Individual Taxpayer Identification Number.;0;False;Number
+Even after I filed my taxes, I found my old couch purchase receipt with item number 952952430.;0;False;952952430
+The verification number 9869297 is required for transaction verification.;0;False;9869297
+When filling out my college application, I was asked for my favourite number 3941.;0;False;3941
+When I was filling out my forms, I accidentally wrote down my transaction number 95053 instead of my tax identification number.;0;False;95053
+During our discussion, your mom mentioned that the IRS issue ITINs, hers was 970-94-3707 .;1;Edge;970-94-3707
+When I checked my records, I found my IRS number 986 929711 written in the margins.;1;Edge;986 929711

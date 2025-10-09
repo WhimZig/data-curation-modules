@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Ik heb mijn IBAN, NL91ABNA0417164300, nodig om de betaling te doen.;1;True;NL91ABNA0417164300
+Ik heb onlangs mijn IBAN nummer veranderd naar NL12 INGB 0000 1234 67.;1;True;NL12 INGB 0000 1234 67
+Mijn IBAN is NL48RABO6143727961 zodat je het bedrag kunt overmaken.;1;True;NL48RABO6143727961
+Mijn IBAN-nummer is NL91ABNA0417164300, dat heb ik nodig voor de overboeking.;1;True;NL91ABNA0417164300
+Mijn IBAN is NL78RABO9795311433 en ik heb het nodig voor de overboeking.;1;True;NL78RABO9795311433
+Het nummer van mijn nieuwe klantenkaart is 1234 5678 9012 3456.;0;False;1234 5678 9012 3456
+De rekeningnummer 1234-5678-9101 is niet geldig, maar het lijkt op een IBAN.;0;False;1234-5678-9101
+Ik heb een afspraak gemaakt bij de tandarts op 15-1234-ABC, ik hoop dat het goed gaat.;0;False;15-1234-ABC
+Mijn IBAN bevat 12345 volgens mij.;0;False;12345
+Een voorbeeld van een identificatiecode is 0417164300 dat ik onlangs vond.;0;False;0417164300
+Onlangs ontving ik een betaling op mijn rekening met het IBAN NL 02 INGB 7023 5327 22, dat was een verrassing!;1;Edge;NL 02 INGB 7023 5327 22
+Ik wandel graag in het park, NL87 ABNA 51 9544 4706.;1;Edge;NL87 ABNA 51 9544 4706

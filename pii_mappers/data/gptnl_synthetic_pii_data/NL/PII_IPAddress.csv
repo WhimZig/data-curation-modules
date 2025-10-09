@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Het IP-adres van deze computer is 69dc:a8c0:97c7:1559:b69d:5a9f:35c6:2afb en het moet veilig zijn.;1;True;69dc:a8c0:97c7:1559:b69d:5a9f:35c6:2afb
+Tijdens het testen van ons systeem ontdekte ik dat mijn ip-adres 130.223.180.225 behoorlijk traag was.;1;True;130.223.180.225
+De server met het IP-adres f7ee:e89c:0a40:843d:c3dc:101a:ec80:a954 is momenteel offline.;1;True;f7ee:e89c:0a40:843d:c3dc:101a:ec80:a954
+Mijn computer heeft het IP-adres 106.244.64.249 dat vaak in netwerkinstellingen wordt gebruikt.;1;True;106.244.64.249
+Het IP-adres van onze server is 174.218.181.63 en is cruciaal voor de connectiviteit.;1;True;174.218.181.63
+Ons huisnummer is 34-2, maar ik kan het echte ip-adres niet geven.;0;False;34-2
+De productcode die je zoekt is 1923-ABCD-456;0;False;1923-ABCD-456
+De productcode 192-168-1-1 is verkeerd genoteerd in het systeem.;0;False;192-168-1-1
+Ik zag gisteren een mooie code 1924-AZ-77 op de muur geschreven.;0;False;1924-AZ-77
+Mijn personeelsnummer is 192-168-1-1 en ik kan u helpen met uw vragen.;0;False;192-168-1-1
+Als je het IP-adres van de server weet, gebruik dan 715c:fa6b:8668:2481:88b9:7eab:60f6:a882 om verbinding te maken.;1;Edge;715c:fa6b:8668:2481:88b9:7eab:60f6:a882
+De server met 136.89.153.251 was gisteren offline.;1;Edge;136.89.153.251

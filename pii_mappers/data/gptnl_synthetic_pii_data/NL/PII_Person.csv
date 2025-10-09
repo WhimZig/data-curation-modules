@@ -1,0 +1,13 @@
+Sentence;Label;Type;Entity
+Mijn buurman, Johan van der Meer, is deze week verhuisd.;1;True;Johan van der Meer
+Gisteren sprak ik met Marieke over haar nieuwe project op het werk.;1;True;Marieke
+De directeur van het bedrijf, Jan de Vries, gaf ons gisteren een presentatie.;1;True;Jan de Vries
+Na de vergadering sprak ik met Luc de Boer over ons project.;1;True;Luc de Boer
+Gisteren ontmoette ik mijn goede vriend Jeroen bij de koffiebar.;1;True;Jeroen
+Een factuur met het nummer 12345 werd recentelijk verzonden.;0;False;12345
+De bankrekening van 123456789 werd zonder toestemming gebruikt.;0;False;123456789
+De voor- en achternaam van de vrouw zijn nog altijd onbekend;0;False;achternaam
+De nieuwe smartphone van de firma XQY werd gelanceerd met indrukwekkende specificaties.;0;False;XQY
+De rekening met het nummer 123456789 staat nog open.;0;False;123456789
+De mysterieuze vrouw die altijd in het park loopt, heet Adasfadoe;1;Edge;Adasfadoe
+Wat een typische Jan vanderMeer actie!.;1;Edge;Jan vanderMeer

@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "gptnl-machine-translation"
+version = "0.1.22"
+description = "Translates text into Dutch"
+authors = ["Martino Mensio <martino.mensio@tno.nl>", "Tom Brand <tom.brand@tno.nl>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13" # sentencepiece does not support Python 3.13 yet
+pandas = "^2.2.3"
+transformers = "^4.45.2"
+torch = "^2.5.1"
+sacrebleu = "^2.4.3"
+requests = "^2.32.3"
+datasets = "^3.2.0"
+tqdm = "^4.67.1"
+nltk = "^3.9.1"
+accelerate = "^1.2.1"
+sentencepiece = "^0.2.0"
+protobuf = "^5.29.2"
+sacremoses = "^0.1.1"
+datatrove = ">=0.2.0"
+vllm = "^0.8.2"
+flashinfer-python = "<0.2.3" # FlashInfer>=v0.2.3 is not backward compatible
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+ruff = "^0.9.4"
+black = "^25.1.0"
+isort = "^6.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
