@@ -88,7 +88,7 @@ In the **module directory**:
 - Test your modules by running `poetry run pytest .`
 - If testing on data files, keep the data files as small as possible.
 - If data files are included for testing and they're binary files, add them to Git LFS by running `git lfs track *.<FILE_EXTENSION>`
-- If you need larger data or binary files, host them externally and add a post install script that downloads them (similar to [this](pii_mappers/post_install.py)).
+- If you need larger data or binary files, host them externally and add a post install script that downloads them (similar to [this](gopher_quality_filter/post_install.py)).
 - Make sure to install pre-commit hooks.
 
 ## Publishing modules
