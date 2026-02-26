@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-<a href="https://gpt-nl.nl/" target="_blank"><img src ="https://gpt-nl.nl/publish/pages/5180/beeldmerk-gpt_nl.svg" alt="GPT-NL" widht="200"></a><br>
+<a href="https://gpt-nl.nl/" target="_blank"><img src="https://raw.githubusercontent.com/GPT-NL/.github/refs/heads/main/profile/assets/logo.svg" alt="GPT-NL" width="200" style="background-color: #fff"></a><br>
 Data Curation Modules
 </h1>
 </div>
@@ -88,7 +88,7 @@ In the **module directory**:
 - Test your modules by running `poetry run pytest .`
 - If testing on data files, keep the data files as small as possible.
 - If data files are included for testing and they're binary files, add them to Git LFS by running `git lfs track *.<FILE_EXTENSION>`
-- If you need larger data or binary files, host them externally and add a post install script that downloads them (similar to [this](pii_mappers/post_install.py)).
+- If you need larger data or binary files, host them externally and add a post install script that downloads them (similar to [this](gopher_quality_filter/post_install.py)).
 - Make sure to install pre-commit hooks.
 
 ## Publishing modules
