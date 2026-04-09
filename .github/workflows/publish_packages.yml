@@ -13,21 +13,21 @@ jobs:
     strategy:
       matrix:
         package:
-          - whitespace-formatter
-          - punctuation-formatter
-          - ftfy-formatter
-          - c4-filters
-          - tno-quality-filter
-          - gopher-quality-filter
-          - gopher-repetition-filter
-          - fineweb-quality-filter
-          - pii-mappers
-          - toxic-language-detection
-          - nordicpile-quality-filter
-          - machine-translation
-          - quality-analysis
-          - regex-formatter
-          - llm-processing
+          - whitespace_formatter
+          - punctuation_formatter
+          - ftfy_formatter
+          - c4_filters
+          - tno_quality_filter
+          - gopher_quality_filter
+          - gopher_repetition_filter
+          - fineweb_quality_filter
+          - pii_mappers
+          - toxic_language_detection
+          - nordicpile_quality_filter
+          - machine_translation
+          - quality_analysis
+          - regex_formatter
+          - llm_processing
 
     steps:
       - uses: actions/checkout@v4
