@@ -1,0 +1,55 @@
+name: Publish packages to GitHub Packages
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    strategy:
+      matrix:
+        package:
+          - whitespace-formatter
+          - punctuation-formatter
+          - ftfy-formatter
+          - c4-filters
+          - tno-quality-filter
+          - gopher-quality-filter
+          - gopher-repetition-filter
+          - fineweb-quality-filter
+          - pii-mappers
+          - toxic-language-detection
+          - nordicpile-quality-filter
+          - machine-translation
+          - quality-analysis
+          - regex-formatter
+          - llm-processing
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install build tools
+        run: pip install build twine
+
+      - name: Build package
+        working-directory: ${{ matrix.package }}
+        run: python -m build
+
+      - name: Publish to GitHub Packages
+        working-directory: ${{ matrix.package }}
+        env:
+          TWINE_USERNAME: ${{ github.actor }}
+          TWINE_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          twine upload \
+            --repository-url https://maven.pkg.github.com/WhimZig/data-curation-modules \
+            --skip-existing \
+            dist/*
